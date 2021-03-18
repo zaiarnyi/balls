@@ -1,0 +1,75 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+/* НЕ РЕДАКТИРОВАТЬ */
+.center-circle{
+  cursor: pointer;
+}
+.st0 {
+  fill: none;
+  stroke: #009dff;
+  stroke-opacity: 0.22;
+}
+
+.st1 {
+  opacity: 0.22;
+  fill: none;
+  stroke: #009dff;
+  enable-background: new;
+}
+
+.st2 {
+  fill: none;
+  stroke: url(#SVGID_1_);
+  stroke-width: 2;
+  stroke-miterlimit: 2.6695;
+  stroke-dasharray: 1, 4;
+}
+
+.st3 {
+  fill: none;
+  stroke: url(#SVGID_2_);
+  stroke-width: 2;
+}
+
+.st4 {
+  fill: #5027e5;
+}
+
+.st5 {
+  fill: #5128e4;
+}
+
+.st6 {
+  fill: #7d5dec;
+}
+
+.st7 {
+  fill: #b15ed9;
+}
+
+.st8 {
+  fill: #391a9f;
+}
+
+.st9 {
+  fill: #db22fc;
+}
+
+.st10 {
+  fill: #ffffff;
+}
